@@ -8,17 +8,34 @@
 
 /* Begin PBXBuildFile section */
 		8E4A86E42ABB56D000861C02 /* ModalViews_ExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A86E32ABB56D000861C02 /* ModalViews_ExampleApp.swift */; };
-		8E4A86E62ABB56D000861C02 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A86E52ABB56D000861C02 /* ContentView.swift */; };
+		8E4A86E62ABB56D000861C02 /* ContentView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A86E52ABB56D000861C02 /* ContentView1.swift */; };
 		8E4A86E82ABB56D100861C02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E4A86E72ABB56D100861C02 /* Assets.xcassets */; };
-		8E4A86EB2ABB56D100861C02 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E4A86EA2ABB56D100861C02 /* Preview Assets.xcassets */; };
+		8E4A86F72ABB66E700861C02 /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A86F62ABB66E700861C02 /* ContentView2.swift */; };
+		8E4A86F92ABB67FC00861C02 /* ContentView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A86F82ABB67FC00861C02 /* ContentView3.swift */; };
+		8E4A86FB2ABB687200861C02 /* ContentView4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A86FA2ABB687200861C02 /* ContentView4.swift */; };
+		8E4A86FD2ABB6A4000861C02 /* ContentView5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A86FC2ABB6A4000861C02 /* ContentView5.swift */; };
+		8E4A86FF2ABB6C5400861C02 /* ContentView6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A86FE2ABB6C5400861C02 /* ContentView6.swift */; };
+		8E4A87012ABB708A00861C02 /* ContentView7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A87002ABB708A00861C02 /* ContentView7.swift */; };
+		8E4A87032ABB726000861C02 /* ContentView8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A87022ABB726000861C02 /* ContentView8.swift */; };
+		8E4A87052ABB748100861C02 /* ContentView9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4A87042ABB748100861C02 /* ContentView9.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		8E4A86E02ABB56D000861C02 /* ModalViews-Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ModalViews-Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E4A86E32ABB56D000861C02 /* ModalViews_ExampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalViews_ExampleApp.swift; sourceTree = "<group>"; };
-		8E4A86E52ABB56D000861C02 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8E4A86E52ABB56D000861C02 /* ContentView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView1.swift; sourceTree = "<group>"; };
 		8E4A86E72ABB56D100861C02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8E4A86EA2ABB56D100861C02 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8E4A86F32ABB570F00861C02 /* SampleCode.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = SampleCode.xcconfig; sourceTree = "<group>"; };
+		8E4A86F42ABB571000861C02 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8E4A86F52ABB571000861C02 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		8E4A86F62ABB66E700861C02 /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView2.swift; sourceTree = "<group>"; };
+		8E4A86F82ABB67FC00861C02 /* ContentView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView3.swift; sourceTree = "<group>"; };
+		8E4A86FA2ABB687200861C02 /* ContentView4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView4.swift; sourceTree = "<group>"; };
+		8E4A86FC2ABB6A4000861C02 /* ContentView5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView5.swift; sourceTree = "<group>"; };
+		8E4A86FE2ABB6C5400861C02 /* ContentView6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView6.swift; sourceTree = "<group>"; };
+		8E4A87002ABB708A00861C02 /* ContentView7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView7.swift; sourceTree = "<group>"; };
+		8E4A87022ABB726000861C02 /* ContentView8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView8.swift; sourceTree = "<group>"; };
+		8E4A87042ABB748100861C02 /* ContentView9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView9.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +52,9 @@
 		8E4A86D72ABB56D000861C02 = {
 			isa = PBXGroup;
 			children = (
+				8E4A86F52ABB571000861C02 /* LICENSE */,
+				8E4A86F42ABB571000861C02 /* README.md */,
+				8E4A86F22ABB570F00861C02 /* Configuration */,
 				8E4A86E22ABB56D000861C02 /* ModalViews-Example */,
 				8E4A86E12ABB56D000861C02 /* Products */,
 			);
@@ -52,19 +72,26 @@
 			isa = PBXGroup;
 			children = (
 				8E4A86E32ABB56D000861C02 /* ModalViews_ExampleApp.swift */,
-				8E4A86E52ABB56D000861C02 /* ContentView.swift */,
+				8E4A86E52ABB56D000861C02 /* ContentView1.swift */,
+				8E4A86F62ABB66E700861C02 /* ContentView2.swift */,
+				8E4A86F82ABB67FC00861C02 /* ContentView3.swift */,
+				8E4A86FA2ABB687200861C02 /* ContentView4.swift */,
+				8E4A86FC2ABB6A4000861C02 /* ContentView5.swift */,
+				8E4A86FE2ABB6C5400861C02 /* ContentView6.swift */,
+				8E4A87002ABB708A00861C02 /* ContentView7.swift */,
+				8E4A87022ABB726000861C02 /* ContentView8.swift */,
+				8E4A87042ABB748100861C02 /* ContentView9.swift */,
 				8E4A86E72ABB56D100861C02 /* Assets.xcassets */,
-				8E4A86E92ABB56D100861C02 /* Preview Content */,
 			);
 			path = "ModalViews-Example";
 			sourceTree = "<group>";
 		};
-		8E4A86E92ABB56D100861C02 /* Preview Content */ = {
+		8E4A86F22ABB570F00861C02 /* Configuration */ = {
 			isa = PBXGroup;
 			children = (
-				8E4A86EA2ABB56D100861C02 /* Preview Assets.xcassets */,
+				8E4A86F32ABB570F00861C02 /* SampleCode.xcconfig */,
 			);
-			path = "Preview Content";
+			path = Configuration;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +152,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8E4A86EB2ABB56D100861C02 /* Preview Assets.xcassets in Resources */,
 				8E4A86E82ABB56D100861C02 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +163,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8E4A86E62ABB56D000861C02 /* ContentView.swift in Sources */,
+				8E4A86FD2ABB6A4000861C02 /* ContentView5.swift in Sources */,
+				8E4A86F72ABB66E700861C02 /* ContentView2.swift in Sources */,
+				8E4A87052ABB748100861C02 /* ContentView9.swift in Sources */,
+				8E4A87012ABB708A00861C02 /* ContentView7.swift in Sources */,
+				8E4A86E62ABB56D000861C02 /* ContentView1.swift in Sources */,
+				8E4A86FF2ABB6C5400861C02 /* ContentView6.swift in Sources */,
+				8E4A87032ABB726000861C02 /* ContentView8.swift in Sources */,
+				8E4A86F92ABB67FC00861C02 /* ContentView3.swift in Sources */,
+				8E4A86FB2ABB687200861C02 /* ContentView4.swift in Sources */,
 				8E4A86E42ABB56D000861C02 /* ModalViews_ExampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -147,6 +181,7 @@
 /* Begin XCBuildConfiguration section */
 		8E4A86EC2ABB56D100861C02 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E4A86F32ABB570F00861C02 /* SampleCode.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
@@ -210,6 +245,7 @@
 		};
 		8E4A86ED2ABB56D100861C02 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E4A86F32ABB570F00861C02 /* SampleCode.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
@@ -266,12 +302,14 @@
 		};
 		8E4A86EF2ABB56D100861C02 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E4A86F32ABB570F00861C02 /* SampleCode.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ModalViews-Example/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -284,7 +322,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.kamilstrzelecki.ModalViews-Example";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.kamilstrzelecki.ModalViews-Example${SAMPLE_CODE_DISAMBIGUATOR}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -294,12 +332,14 @@
 		};
 		8E4A86F02ABB56D100861C02 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E4A86F32ABB570F00861C02 /* SampleCode.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ModalViews-Example/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -312,7 +352,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.kamilstrzelecki.ModalViews-Example";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.kamilstrzelecki.ModalViews-Example${SAMPLE_CODE_DISAMBIGUATOR}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
