@@ -32,7 +32,6 @@ struct BannerItem9: Equatable, Identifiable {
 
 struct BannerContainer9: ViewModifier {
     @State private var presenter = BannerPresenter9()
-    @State private var index = 0
 
     func body(content: Content) -> some View {
         content
@@ -53,7 +52,10 @@ struct BannerContainer9: ViewModifier {
                     .id(item.id)
                 }
             }
-            .animation(.spring, value: presenter.items)
+            // Now as each item is unique, we can just detect when first element in the queue changes.
+            // Otherwise animation would also be created when item is added to the presenter's queue,
+            // which is unnecessary.
+            .animation(.spring, value: presenter.items.first)
             .environment(presenter)
     }
 }
